@@ -17,6 +17,9 @@ class MainActivity : AppCompatActivity() {
             //resultTextView.text = "6"
             rollDice()
         }
+
+        //on start roll dice
+        rollDice()
     }
 
     private fun rollDice() {
